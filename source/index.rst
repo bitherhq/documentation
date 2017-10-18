@@ -14,11 +14,8 @@ Bither Documentation
    :align: center
 
 This documentation is the result of an ongoing collaborative effort by
-volunteers from the Bither :ref:`community`.  Although it has not been
-authorized by the :ref:`foundation`, we hope you will find it useful.
-We welcome new :ref:`contributors`.
+volunteers from the Bitherhq, we hope you will find it useful.
 
-:q
 
 Contents
 ===============================================================================
