@@ -4,9 +4,9 @@
 Test Networks
 ********************************************************************************
 
-Morden testnet
+Bither testnet
 ================================================================================
-Morden is a public Bither alternative testnet. It is expected to
+It is a public Bither testnet. It is expected to
 continue throughout the Frontier and Homestead milestones of the software.
 
 Usage
@@ -23,7 +23,7 @@ Details
 --------------------------------------------------------------------------------
 All parameters are the same as the main Bither network except:
 
--  Network Name: **Morden**
+-  Network Name: **Bither Testnet**
 -  Network Identity: 2
 -  genesis.json (given below);
 -  Initial Account Nonce (``IAN``) is 2^20 (instead of 0 in all previous
@@ -33,12 +33,10 @@ All parameters are the same as the main Bither network except:
    -  Whenever an account is inserted into the state trie it is
       initialised with nonce = ``IAN``.
 
--  Genesis generic block hash:
-   ``0cd786a2425d16f152c658316c423e6ce1181e15c3295826d7c9904cba9ce303``
--  Genesis generic state root:
-   ``f3f4696bbf3b3b07775128eb7a3763279a394e382130f27c21e70233e04946a9``
+-  Genesis testnet block hash:
+   ``0x3f28c0fa62fafef07a509c52da2b33f43235677dfcaee8bf2f3a29cc2ab7942a``
 
-Morden's genesis.json
+Testnet's genesis.json
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. code:: JSON

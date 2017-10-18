@@ -2,7 +2,7 @@
 The Bither network
 ################################################################################
 
-Network info.
+Network info(Testnet).
 
 .. toctree::
   test-networks.rst
